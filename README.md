@@ -45,13 +45,6 @@ Shoreline Solac manages a portfolio of short-term rentals including:
   - Compare AI vs. current pricing
   - Optimize by island or property type
 
-## ✅ Success Criteria
-
-- 📈 **+15% increase in average monthly revenue**
-- ⏱ **Reduced manual pricing work**
-- 🏆 **Improved positioning during peak seasons**
-- 📊 **One-click dashboard insights for weekly decision-making**
-
 ## 🛠 Project Scope & Techincal Details
 
 This capstone project will include:
