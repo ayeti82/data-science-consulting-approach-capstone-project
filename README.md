@@ -40,10 +40,6 @@ Shoreline Solac manages a portfolio of short-term rentals including:
 
 - **Discover Pricing & Booking Drivers:** Analyze how features like location, season, and amenities affect performance.
 - **AI-Based Price Prediction Model:** Build a model to recommend optimal nightly rates.
-- **Interactive Dashboard (Power BI):**
-  - Track projected revenue
-  - Compare AI vs. current pricing
-  - Optimize by island or property type
 
 ## 🛠 Project Scope & Techincal Details
 
@@ -52,7 +48,6 @@ This capstone project will include:
 - ✅ Data Collection & Modeling
 - ✅ AI/Machine Learning for Price Prediction
 - ✅ Git-based Collaboration & Version Control
-- ✅ Power BI Dashboard for Visualization
 - ✅ Final Business Pitch & Demo Presentation
 
 ### 📊 Data Sources & Access
