@@ -48,7 +48,7 @@ This capstone project will include:
 - ✅ Data Collection & Modeling
 - ✅ AI/Machine Learning for Price Prediction
 - ✅ Git-based Collaboration & Version Control
-- ✅ Final Business Pitch & Demo Presentation
+- ✅ Final Business Pitch
 
 ### 📊 Data Sources & Access
 
